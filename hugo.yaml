@@ -1,0 +1,141 @@
+baseURL: "https://loganpashby.com/"
+title: Portfolio
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: G-ZJHHBY6NHZ
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: LoganPashby
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "logo.svg"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Logan Pashby
+    subtitle: "Senior Software Engineer @ Cypris"
+    imageUrl: "new_profile.jpg"
+    imageWidth: 250
+    imageHeight: 250
+    imageTitle: profile pic
+    buttons:
+      - name: About
+        url: /about
+      - name: Resume
+        url: /resume.pdf
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/pashbylogan"
+    - name: twitter
+      url: "https://twitter.com/LoganPashby"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/logan-pashby/"
+    - name: buymeacoffee
+      url: "https://www.buymeacoffee.com/pashbylogan"
+    - name: email
+      url: "mailto:pashbylogan@gmail.com"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/pashbylogan/hugo_portfolio/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: projects
+      name: projects
+      url: /projects/
+      weight: 10
+    - identifier: blog
+      name: blog
+      url: /blog/
+      weight: 20
+    - identifier: recipes
+      name: recipes
+      url: /recipes/
+      weight: 30
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 100
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
