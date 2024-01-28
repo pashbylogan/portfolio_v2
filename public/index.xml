@@ -1,16 +1,102 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ExampleSite</title>
-    <link>https://examplesite.com/</link>
-    <description>Recent content on ExampleSite</description>
+    <title>Portfolio</title>
+    <link>https://loganpashby.com/</link>
+    <description>Recent content on Portfolio</description>
     <image>
-      <title>ExampleSite</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Portfolio</title>
+      <url>https://loganpashby.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://loganpashby.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Jan 2024 14:44:48 -0700</lastBuildDate>
+    <atom:link href="https://loganpashby.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Observations I Happen to Think Are True</title>
+      <link>https://loganpashby.com/blog/quotes/</link>
+      <pubDate>Sun, 28 Jan 2024 14:44:48 -0700</pubDate>
+      <guid>https://loganpashby.com/blog/quotes/</guid>
+      <description> &amp;ldquo;Interesting people are interested&amp;rdquo; ~my friend Matt &amp;ldquo;Anything you say before the word “but” does not count&amp;rdquo; ~Kevin Kelly </description>
+    </item>
+    <item>
+      <title>Easy Lasagna</title>
+      <link>https://loganpashby.com/recipes/lasagna/</link>
+      <pubDate>Sun, 28 Jan 2024 14:06:40 -0700</pubDate>
+      <guid>https://loganpashby.com/recipes/lasagna/</guid>
+      <description>Description Dead simple lasagna (uncooked noodles).
+Ingredients Meat Sauce:
+1 pound lean ground beef (optional: Substitute italian sausage for some kick) 1 onion, chopped 1 (4.5 ounce) can mushrooms, drained 1 (28 ounce) jar spaghetti sauce Cheese Filling:
+1 (16 ounce) package cottage cheese 1 pint part-skim ricotta cheese 2 large eggs ¼ cup grated Parmesan cheese Other:
+1 (16 ounce) package lasagna noodles 8 ounces shredded mozzarella cheese, divided Directions Preheat the oven to 350 degrees F (175 degrees C).</description>
+    </item>
+    <item>
+      <title>Enchiladas (WIP)</title>
+      <link>https://loganpashby.com/recipes/enchiladas/</link>
+      <pubDate>Sun, 28 Jan 2024 14:06:40 -0700</pubDate>
+      <guid>https://loganpashby.com/recipes/enchiladas/</guid>
+      <description>Description Just a little enchilada recipe.
+Ingredients 1 tablespoon olive oil 1 green pepper, chopped 1 medium onion, chopped 3 garlic cloves, minced 1 pound ground beef 1 can (15 ounces) black beans, rinsed and drained 1 can (14-1/2 ounces) diced tomatoes and green chiles 1/4 cup picante sauce 1 tablespoon chili powder 1 teaspoon ground cumin 1/4 teaspoon crushed red pepper flakes 2 cups cooked brown rice 8 flour tortillas (6 inches), warmed 1 cup salsa 1 cup shredded reduced-fat cheddar cheese 3 tablespoons chopped fresh cilantro leaves Optional toppings: Cotija cheese, red onion, jalapeno peppers, avocado, lime wedges Directions Preheat oven to 350°.</description>
+    </item>
+    <item>
+      <title>Thai Noodles</title>
+      <link>https://loganpashby.com/recipes/thai_noods/</link>
+      <pubDate>Sun, 28 Jan 2024 14:06:40 -0700</pubDate>
+      <guid>https://loganpashby.com/recipes/thai_noods/</guid>
+      <description>Description My favorite thai noods recipe.
+Ingredients 1 pound linguine 2 TBS olive oil , divided 2 large eggs , lightly beaten ½ teaspoon crushed red pepper flakes 1 zucchini , cut in half vertically, then sliced in half circles 8 ounces mushroom , chopped 3 cloves garlic , minced 2 TBS brown sugar ⅓ cup low sodium soy sauce 1.5 TBS Sriracha hot sauce (this is A LOT of spice, tone it down if you don&amp;rsquo;t like spicy) 2 inches fresh ginger , grated 1 handful fresh cilantro , chopped 4 green onions , chopped ¼ cup peanuts , chopped Directions In a large stock pot, fill halfway with water, salt, and bring to a boil.</description>
+    </item>
+    <item>
+      <title>Think Simply</title>
+      <link>https://loganpashby.com/blog/think_simply/</link>
+      <pubDate>Sun, 28 Jan 2024 14:06:40 -0700</pubDate>
+      <guid>https://loganpashby.com/blog/think_simply/</guid>
+      <description>The simpler the better In software engineering it&amp;rsquo;s a well known principle that the simplest solution is the best. That way, others will be able to understand the solution quickly, and it will be easier to maintain in the future. Even when choosing between simplicity and optimization, simplicity should usually win.
+It turns out that keeping this in mind, no matter the task, puts your brain in a state that&amp;rsquo;s ready to tackle issues in a better way.</description>
+    </item>
+    <item>
+      <title>v60 Pourover</title>
+      <link>https://loganpashby.com/recipes/pourover/</link>
+      <pubDate>Sun, 28 Jan 2024 14:06:40 -0700</pubDate>
+      <guid>https://loganpashby.com/recipes/pourover/</guid>
+      <description>Description Ingredients Directions </description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://loganpashby.com/about/</link>
+      <pubDate>Sun, 28 Jan 2024 13:00:46 -0700</pubDate>
+      <guid>https://loganpashby.com/about/</guid>
+      <description>Senior software engineer @ Cypris 🔭 I’m currently working on delivering high-quality market insights at Cypris. 🌱 I’m currently learning about how writing can improve my professional and personal development. 💻 Some of my public projects are available at here 📝 I regularly write articles on loganpashby.com/blog 💬 Ask me about my deep learning research as Western Washington University. 📫 How to reach me: shoot me an email! 📄 Know about my experiences: Resume Link ⚡ Fun fact I play french horn in a local band, love all technology and philosophical podcasts, and I&amp;rsquo;m currently rediscovering the power of writing.</description>
+    </item>
+    <item>
+      <title>Jellobot</title>
+      <link>https://loganpashby.com/projects/jellobot/</link>
+      <pubDate>Sun, 28 Jan 2024 13:00:46 -0700</pubDate>
+      <guid>https://loganpashby.com/projects/jellobot/</guid>
+      <description>Click to see the documentation for jellobot, a discord bot written in asynchronous python. </description>
+    </item>
+    <item>
+      <title>Aeropress</title>
+      <link>https://loganpashby.com/recipes/aeropress/</link>
+      <pubDate>Sat, 27 Jan 2024 14:06:40 -0700</pubDate>
+      <guid>https://loganpashby.com/recipes/aeropress/</guid>
+      <description>Description Ingredients Directions </description>
+    </item>
+    <item>
+      <title>Autocut</title>
+      <link>https://loganpashby.com/projects/autocut/</link>
+      <pubDate>Sun, 30 Apr 2023 13:00:46 -0700</pubDate>
+      <guid>https://loganpashby.com/projects/autocut/</guid>
+      <description>As remote learning continues to be the norm, teachers and professors are relying more heavily on recorded lectures to deliver course material to their students. However, recorded lectures can be time-consuming to edit, and cleaning up audio files can be a particular challenge.
+That&amp;rsquo;s where Autocut comes in. Autocut is an open-source tool designed to automatically clean up recorded lectures, saving teachers and professors valuable time and effort. It&amp;rsquo;s designed to allow a user to upload their lecture video into the tool and Autocut will proceed to edit out silence, dead air, and noise artifacts from audio files and their accompanying video (if applicable).</description>
+    </item>
+    <item>
+      <title>Fictionary</title>
+      <link>https://loganpashby.com/projects/fictionary/</link>
+      <pubDate>Sat, 29 Apr 2023 13:00:46 -0700</pubDate>
+      <guid>https://loganpashby.com/projects/fictionary/</guid>
+      <description>Introduction In this blog post, I&amp;rsquo;ll discuss our award-winning hackathon project from the 2021 Western Washington University Hackathon. Our team developed a web application called Fictionary that generates fictitious definitions for coherent words. We&amp;rsquo;ll guide you through the process of building this app, which consists of a large language model, a website, and an API that passes information between the two. We&amp;rsquo;ll also share code examples, images, and insights into our project&amp;rsquo;s development.</description>
+    </item>
   </channel>
 </rss>

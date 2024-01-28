@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes on Portfolio</title>
+    <link>https://loganpashby.com/recipes/</link>
+    <description>Recent content in Recipes on Portfolio</description>
+    <image>
+      <title>Portfolio</title>
+      <url>https://loganpashby.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://loganpashby.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Jan 2024 14:06:40 -0700</lastBuildDate>
+    <atom:link href="https://loganpashby.com/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Easy Lasagna</title>
+      <link>https://loganpashby.com/recipes/lasagna/</link>
+      <pubDate>Sun, 28 Jan 2024 14:06:40 -0700</pubDate>
+      <guid>https://loganpashby.com/recipes/lasagna/</guid>
+      <description>Description Dead simple lasagna (uncooked noodles).
+Ingredients Meat Sauce:
+1 pound lean ground beef (optional: Substitute italian sausage for some kick) 1 onion, chopped 1 (4.5 ounce) can mushrooms, drained 1 (28 ounce) jar spaghetti sauce Cheese Filling:
+1 (16 ounce) package cottage cheese 1 pint part-skim ricotta cheese 2 large eggs ¼ cup grated Parmesan cheese Other:
+1 (16 ounce) package lasagna noodles 8 ounces shredded mozzarella cheese, divided Directions Preheat the oven to 350 degrees F (175 degrees C).</description>
+    </item>
+    <item>
+      <title>Enchiladas (WIP)</title>
+      <link>https://loganpashby.com/recipes/enchiladas/</link>
+      <pubDate>Sun, 28 Jan 2024 14:06:40 -0700</pubDate>
+      <guid>https://loganpashby.com/recipes/enchiladas/</guid>
+      <description>Description Just a little enchilada recipe.
+Ingredients 1 tablespoon olive oil 1 green pepper, chopped 1 medium onion, chopped 3 garlic cloves, minced 1 pound ground beef 1 can (15 ounces) black beans, rinsed and drained 1 can (14-1/2 ounces) diced tomatoes and green chiles 1/4 cup picante sauce 1 tablespoon chili powder 1 teaspoon ground cumin 1/4 teaspoon crushed red pepper flakes 2 cups cooked brown rice 8 flour tortillas (6 inches), warmed 1 cup salsa 1 cup shredded reduced-fat cheddar cheese 3 tablespoons chopped fresh cilantro leaves Optional toppings: Cotija cheese, red onion, jalapeno peppers, avocado, lime wedges Directions Preheat oven to 350°.</description>
+    </item>
+    <item>
+      <title>Thai Noodles</title>
+      <link>https://loganpashby.com/recipes/thai_noods/</link>
+      <pubDate>Sun, 28 Jan 2024 14:06:40 -0700</pubDate>
+      <guid>https://loganpashby.com/recipes/thai_noods/</guid>
+      <description>Description My favorite thai noods recipe.
+Ingredients 1 pound linguine 2 TBS olive oil , divided 2 large eggs , lightly beaten ½ teaspoon crushed red pepper flakes 1 zucchini , cut in half vertically, then sliced in half circles 8 ounces mushroom , chopped 3 cloves garlic , minced 2 TBS brown sugar ⅓ cup low sodium soy sauce 1.5 TBS Sriracha hot sauce (this is A LOT of spice, tone it down if you don&amp;rsquo;t like spicy) 2 inches fresh ginger , grated 1 handful fresh cilantro , chopped 4 green onions , chopped ¼ cup peanuts , chopped Directions In a large stock pot, fill halfway with water, salt, and bring to a boil.</description>
+    </item>
+    <item>
+      <title>v60 Pourover</title>
+      <link>https://loganpashby.com/recipes/pourover/</link>
+      <pubDate>Sun, 28 Jan 2024 14:06:40 -0700</pubDate>
+      <guid>https://loganpashby.com/recipes/pourover/</guid>
+      <description>Description Ingredients Directions </description>
+    </item>
+    <item>
+      <title>Aeropress</title>
+      <link>https://loganpashby.com/recipes/aeropress/</link>
+      <pubDate>Sat, 27 Jan 2024 14:06:40 -0700</pubDate>
+      <guid>https://loganpashby.com/recipes/aeropress/</guid>
+      <description>Description Ingredients Directions </description>
+    </item>
+  </channel>
+</rss>

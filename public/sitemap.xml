@@ -2,10 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://loganpashby.com/blog/</loc>
+    <lastmod>2024-01-28T14:44:48-07:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://loganpashby.com/blog/quotes/</loc>
+    <lastmod>2024-01-28T14:44:48-07:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://loganpashby.com/</loc>
+    <lastmod>2024-01-28T14:44:48-07:00</lastmod>
+  </url><url>
+    <loc>https://loganpashby.com/recipes/lasagna/</loc>
+    <lastmod>2024-01-28T14:06:40-07:00</lastmod>
+  </url><url>
+    <loc>https://loganpashby.com/recipes/enchiladas/</loc>
+    <lastmod>2024-01-28T14:06:40-07:00</lastmod>
+  </url><url>
+    <loc>https://loganpashby.com/recipes/</loc>
+    <lastmod>2024-01-28T14:06:40-07:00</lastmod>
+  </url><url>
+    <loc>https://loganpashby.com/recipes/thai_noods/</loc>
+    <lastmod>2024-01-28T14:06:40-07:00</lastmod>
+  </url><url>
+    <loc>https://loganpashby.com/blog/think_simply/</loc>
+    <lastmod>2024-01-28T14:06:40-07:00</lastmod>
+  </url><url>
+    <loc>https://loganpashby.com/recipes/pourover/</loc>
+    <lastmod>2024-01-28T14:06:40-07:00</lastmod>
+  </url><url>
+    <loc>https://loganpashby.com/about/</loc>
+    <lastmod>2024-01-28T13:00:46-07:00</lastmod>
+  </url><url>
+    <loc>https://loganpashby.com/projects/jellobot/</loc>
+    <lastmod>2024-01-28T13:00:46-07:00</lastmod>
+  </url><url>
+    <loc>https://loganpashby.com/projects/</loc>
+    <lastmod>2024-01-28T13:00:46-07:00</lastmod>
+  </url><url>
+    <loc>https://loganpashby.com/recipes/aeropress/</loc>
+    <lastmod>2024-01-27T14:06:40-07:00</lastmod>
+  </url><url>
+    <loc>https://loganpashby.com/projects/autocut/</loc>
+    <lastmod>2023-04-30T13:00:46-07:00</lastmod>
+  </url><url>
+    <loc>https://loganpashby.com/projects/fictionary/</loc>
+    <lastmod>2023-04-29T13:00:46-07:00</lastmod>
+  </url><url>
+    <loc>https://loganpashby.com/categories/</loc>
+  </url><url>
+    <loc>https://loganpashby.com/search/</loc>
+  </url><url>
+    <loc>https://loganpashby.com/tags/</loc>
   </url>
 </urlset>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Portfolio</title>
+    <link>https://loganpashby.com/projects/</link>
+    <description>Recent content in Projects on Portfolio</description>
+    <image>
+      <title>Portfolio</title>
+      <url>https://loganpashby.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://loganpashby.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Jan 2024 13:00:46 -0700</lastBuildDate>
+    <atom:link href="https://loganpashby.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jellobot</title>
+      <link>https://loganpashby.com/projects/jellobot/</link>
+      <pubDate>Sun, 28 Jan 2024 13:00:46 -0700</pubDate>
+      <guid>https://loganpashby.com/projects/jellobot/</guid>
+      <description>Click to see the documentation for jellobot, a discord bot written in asynchronous python. </description>
+    </item>
+    <item>
+      <title>Autocut</title>
+      <link>https://loganpashby.com/projects/autocut/</link>
+      <pubDate>Sun, 30 Apr 2023 13:00:46 -0700</pubDate>
+      <guid>https://loganpashby.com/projects/autocut/</guid>
+      <description>As remote learning continues to be the norm, teachers and professors are relying more heavily on recorded lectures to deliver course material to their students. However, recorded lectures can be time-consuming to edit, and cleaning up audio files can be a particular challenge.
+That&amp;rsquo;s where Autocut comes in. Autocut is an open-source tool designed to automatically clean up recorded lectures, saving teachers and professors valuable time and effort. It&amp;rsquo;s designed to allow a user to upload their lecture video into the tool and Autocut will proceed to edit out silence, dead air, and noise artifacts from audio files and their accompanying video (if applicable).</description>
+    </item>
+    <item>
+      <title>Fictionary</title>
+      <link>https://loganpashby.com/projects/fictionary/</link>
+      <pubDate>Sat, 29 Apr 2023 13:00:46 -0700</pubDate>
+      <guid>https://loganpashby.com/projects/fictionary/</guid>
+      <description>Introduction In this blog post, I&amp;rsquo;ll discuss our award-winning hackathon project from the 2021 Western Washington University Hackathon. Our team developed a web application called Fictionary that generates fictitious definitions for coherent words. We&amp;rsquo;ll guide you through the process of building this app, which consists of a large language model, a website, and an API that passes information between the two. We&amp;rsquo;ll also share code examples, images, and insights into our project&amp;rsquo;s development.</description>
+    </item>
+  </channel>
+</rss>
